@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UTS Mobile Progamming</string>
+    <string-array name="Isi">
+        <item>Emilia</item>
+        <item>Rem</item>
+        <item>Asuna Yuuki</item>
+        <item>Hestia</item>
+        <item>Lucy Heartfilia</item>
+        <item>Kawakami Mai</item>
+    </string-array>
+</resources>
